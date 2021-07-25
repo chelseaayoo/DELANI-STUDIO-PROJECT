@@ -26,13 +26,13 @@ input {
 }
 
 ::placeholder {
-    color:blue;
+    color:white;
 }
 
 textarea {
     resize: none;
     background-color: transparent;
-    color: white;
+    color:white;
 }
 
 h6 {
