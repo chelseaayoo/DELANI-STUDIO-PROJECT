@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $('.first icon').click(function() {
+    $('.firsticon').click(function() {
         $('#firsticon').show();
         $(".firsticon").hide();
 
