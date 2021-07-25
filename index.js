@@ -34,11 +34,11 @@ $(document).ready(function() {
 
     $("form").submit(function(event) {
         if ($("input").val() === "") {
-            alert('Enter valid data')
+            alert('Please enter valid information.')
             return;
         }
 
-        alert('Your message have been recevied')
+        alert('We have received your message. We are working on it.')
         event.preventDefault();
         this.reset();
     });
