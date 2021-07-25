@@ -38,7 +38,7 @@ $(document).ready(function() {
             return;
         }
 
-        alert('We have received your message. We are working on it.')
+        alert('We have received your message. We are working on it.Thank you for reaching out to us.')
         event.preventDefault();
         this.reset();
     });
